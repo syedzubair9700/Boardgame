@@ -1,4 +1,4 @@
-FROM Maven:3.9-amazoncorretto-11
+FROM maven:3.9-amazoncorretto-11
 
 LABEL author="zubair" project="Boardgame"
 
